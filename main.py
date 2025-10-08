@@ -62,5 +62,6 @@ def main():
         else:
             print("Invalid command.")
 
+# Запуск програми
 if __name__ == "__main__":
     main()
